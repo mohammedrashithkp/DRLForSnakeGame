@@ -1,4 +1,4 @@
-# DRL-for-Snake-Game
+# DRLForSnakeGame
 This project utilises a Deep Reinforcement Learning specifically Q learning implemented using PyTorch which learns the game by interacting with the pygame environment .I have followed a tutorial on Freecodecamp YouTube Channel and made the initial model.
 ## Demo Training Video
 https://github.com/user-attachments/assets/0c2ae865-a5fc-4299-8c31-3a7e7a47a919
